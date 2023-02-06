@@ -25,4 +25,36 @@ The final product was a functioning cam and crank slider mechanism that was able
 
 This project was a great opportunity to learn about mechanical systems and the physics behind them. The experience was challenging but also rewarding, as the final machine was able to run for over a minute. If I were to improve on my machine and make it better, I would probably create a more elegant and efficient design. Overall, it was a great learning experience and a fun project to work on.
 
+## Videos 
+
+- [Working mechanism of the slider](https://drive.google.com/file/d/1dY9OM5m6-I3AsxRH31PAX3wvs1G33uvT/view?usp=sharing)
+- [First Failed attempt](https://drive.google.com/file/d/1vdOJCgcc18Ix3-0J33YdovSXAASFTK_V/view?usp=sharing)
+- [Watch 1-minute final result](https://drive.google.com/file/d/1b-bnB2QBqW7ehTLG50vFZGkpTp3i7VJc/view?usp=sharing)  
+
+## WIP images
+
+**Figuring our length of connecting rod**
+ 
+<p align="center">
+<img src="./assets/Connecting_Rod.jpg" width="700" height="600">
+</p>
+
+**Slider Design**
+<p align="center">
+<img src="./assets/Slider_Design.jpg" width="700" height="600">
+</p>
+ 
+
+
+**Made a cut in the connecting rod to prevent it from striking the base of slider**
+<p align="center">
+<img src="./assets/IMG_4147.jpg" width="700" height="600">
+</p>
+
+ 
+<p align="center">
+<img src="./assets/IMG_4145.jpg" width="700" height="600">
+</p>
+
+
 
