@@ -6,6 +6,8 @@ For my project, I am planning to create a mechanism inspired by the classic West
 
 The mechanism will consist of three circular disks that are connected to the stepper motor. Each disk rotates at a specific time interval - 15 minutes, 30 minutes, and 1 hour, respectively. The disks will be placed on a platform that will rotate to bring the characters in front of the audience. There will be a screen hiding the characters behind it so it has to be brought in front of the audience to reveal the characters.
 
+The screen in front of the audience hides the characters outside of the specific time intervals.
+
 <img src="assets/Idea.png">
 
 ### Inspiration
@@ -27,6 +29,8 @@ The horse also has a mechanism that will make it gallop forward and backward, si
 ### 1-Hour Mechanism
 
 Finally, during the 1-hour mechanism, the third and final disk will rotate, and the ultimate showdown will take place. The characters will be brought in front of the audience once again, and one of the characters will fire a bullet, killing the second character.
+
+The red highlighted area are the pivots where the structure fold:
 
 **Initial Position**
 <img src="assets/1hour_1.png">
