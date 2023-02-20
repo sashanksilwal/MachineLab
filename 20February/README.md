@@ -39,3 +39,4 @@ The red highlighted area are the pivots where the structure fold:
 <img src="assets/1hour_2.png">
 
 Overall, the mechanism aims to capture the spirit of the classic movie and provide an engaging and entertaining experience for the audience.
+
