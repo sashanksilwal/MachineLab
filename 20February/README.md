@@ -32,6 +32,6 @@ Finally, during the 1-hour mechanism, the third and final disk will rotate, and 
 <img src="assets/1hour_1.png">
 
 **Final Position**
-<img src="assets/1hour_1.png">
+<img src="assets/1hour_2.png">
 
 Overall, the mechanism aims to capture the spirit of the classic movie and provide an engaging and entertaining experience for the audience.
