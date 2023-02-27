@@ -14,7 +14,7 @@ This change in resistance can be used to control various aspects of a
 circuit, such as volume or brightness.
 
 
-[How a Potentiometer Works?](https://www.youtube.com/watch?v=fg9No42IjnM)
+[How Potentiometer Works?](https://www.youtube.com/watch?v=fg9No42IjnM)
 
 ### Challanges Faced
 
