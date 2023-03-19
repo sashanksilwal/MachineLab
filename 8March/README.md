@@ -56,6 +56,10 @@ and a deep understanding of birds of prey. The bond between a falconer and their
 and trust, and the tradition of falconry has been passed down through generations.
 
 ### Concept
+<div display=inline-flex>
+<img src="./assets/FlightPattern_1.gif" height="250">
+<img src="./assets/FlightPattern_2.gif" height="250">
+</div>
 
 The Falconry Automata is a mechanical device that uses a mechanism similar to the carousel horse rides in theme
 parks to make the falcon flap its wings every 30 minutes. The automata is designed to mimic the movement of a
@@ -67,13 +71,16 @@ real falcon.
 
 **Parts**
 
-<p align="center">
-<img src="./assets/body.jpg" width="700" height="600">
-</p>
+<div display=inline-flex>
+<img src="./assets/wings.jpg" width="500">
+<img src="./assets/body.jpg" width="500">
+ 
+</div>
 
-<p align="center">
-<img src="./assets/wings.jpg" width="700" height="600">
-</p>
+
+
 ### Reference
 
 [Flying Bird Automata](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlcsKRLxfFDM&psig=AOvVaw3yOPj1-RuMhdXctNSUZn9k&ust=1678359157095000&source=images&cd=vfe&ved=0CA4QjhxqFwoTCODnkJ2VzP0CFQAAAAAdAAAAABAD)
+
+[Wooden Bird](https://youtu.be/SLt0sRVcoic)
