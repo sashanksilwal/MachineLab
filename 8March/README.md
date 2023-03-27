@@ -77,7 +77,7 @@ real falcon.
  
 </div>
 
-
+<img src="./assets/design.jpg" width="500">
 
 ### Reference
 
