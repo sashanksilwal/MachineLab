@@ -19,7 +19,7 @@ Overall, Ganson's work is awesome. His sculptures have been praised for their or
 
 
 
-[`Link to the essay`:]((https://github.com/sashanksilwal/MachineLab/tree/main/Presentation/Arthur_Ganson_Essay.pdf))
+[`Link to the essay`](https://github.com/sashanksilwal/MachineLab/blob/main/Presentation/Arthur_Ganson_Essay.pdf)
 
 
-[`Link to the presentation`:](https://github.com/sashanksilwal/MachineLab/tree/main/Presentation/Arthur_Ganson_Presentation.pdf)
+[`Link to the presentation`](https://github.com/sashanksilwal/MachineLab/blob/main/Presentation/%20Arthur_Ganson_Presentation.pdf)
